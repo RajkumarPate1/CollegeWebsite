@@ -4,7 +4,7 @@ Developed a front-end website for M. M. K College, Mumbai, India.
 
 ## Tools used
 
-![Untitled](https://user-images.githubusercontent.com/94376039/150142135-2b7d8dd3-879c-42f5-b857-106807e6fbf2.png)
+![Untitled](https://user-images.githubusercontent.com/94376039/150142236-1b713741-02f4-4a35-9f6e-e1728bae8bcf.png)
 
 ## Homepage
 
