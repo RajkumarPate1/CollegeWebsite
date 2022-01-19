@@ -2,7 +2,9 @@
 
 Developed a front-end website for M. M. K College, Mumbai, India.
 
-Tools and languages used: HTML and CSS
+## Tools used
+
+![Untitled](https://user-images.githubusercontent.com/94376039/150142135-2b7d8dd3-879c-42f5-b857-106807e6fbf2.png)
 
 ## Homepage
 
